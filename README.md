@@ -11,12 +11,12 @@ Este proyecto es un conversor de monedas simple implementado en Java. Permite co
 ## Tecnologías Usadas
 
 - Java
-- Librerías adicionales (si aplica, por ejemplo, para conexiones HTTP)
+- Librerías adicionales para conexiones HTTP (si es necesario)
 
 ## Instalación
 
-Para ejecutar este proyecto, necesitarás Java instalado en tu sistema. Sigue estos pasos:
+Para ejecutar este proyecto, necesitarás tener Java instalado en tu sistema. Sigue estos pasos para comenzar:
 
-1. Clona este repositorio:
+1. Clona este repositorio usando el siguiente comando en tu terminal:
    ```bash
    git clone https://github.com/tu_usuario/conversor-de-monedas.git
