@@ -20,7 +20,3 @@ Para ejecutar este proyecto, necesitarás tener Java instalado en tu sistema. Si
 1. Clona este repositorio usando el siguiente comando en tu terminal:
    ```bash
    git clone https://github.com/tu_usuario/conversor-de-monedas.git
-
-## Licencia
-
-Este proyecto está licenciado bajo la Licencia MIT. Para obtener más información, consulta el archivo [LICENSE](LICENSE) en este repositorio.
