@@ -1,5 +1,7 @@
 # Conversor de Monedas
 
+![Badge-Conversor](https://github.com/user-attachments/assets/aaecd25b-c78d-4baa-ae04-ebdf8b8fc0d7)
+
 Este proyecto es un conversor de monedas simple implementado en Java. Permite convertir entre diferentes monedas utilizando tasas de cambio actualizadas.
 
 ## Características
